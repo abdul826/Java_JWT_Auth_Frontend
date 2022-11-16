@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    width: 50%;
+    padding-top: 10px;
+    margin-left: 20%;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.205);
+}
+#profile-img{
+    width: 40px;
+    height: 40px;
+}
